@@ -12,7 +12,7 @@
     "angular", "URI.js"
   ],
   "devDependencies": {
-    "uri.js": "1.15.2"
+    "uri.js": "2.1.1"
   },
   "repository": {
     "type": "git",
